@@ -1,0 +1,18 @@
+table {
+    width: 80%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+}
+table td:nth-child(1) {
+    width: 40%;
+}
+table td:nth-child(2) {
+    width: 40%;
+}
+img{
+    position: relative;
+    left: 40px;
+}
